@@ -10,6 +10,7 @@
 ## Fonctionnalités
 - Affecter chaque pile à un utilisateur spécifique (multi-session, authentification JWT)
 - Réinitialiser une pile sans la supprimer (`DELETE` des éléments mais pas l’ID)
+- Opérations avancées : `mod`, `sqrt`, `pow`, `neg`, `abs`
 
 ## Logging & DevOps
 - Mise en place de `logging` Python (niveaux DEBUG / INFO / ERROR), avec affichage en console et sauvegarde dans un fichier `.log`
