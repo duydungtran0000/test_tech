@@ -1,0 +1,4 @@
+- Ajouter des tests unitaires pour la classe `StackManager`
+- Mettre en place une structure de logs pour tracer les erreurs et opérations
+- Ajouter une documentation dans Swagger (description pour chaque endpoint)
+- Séparer davantage la logique métier (dans `services/`) des routes HTTP (`routers/`)
